@@ -2,7 +2,7 @@
 
 ### Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
 
-  ##### 1. Ecommerce Analytics Dashboard- Main View, Sales, Profit & Orders View   
+  ##### 1. Superstore Sales Dashboard- Main View, Sales, Profit & Orders View   
   ##### 2. AtliQ Sales Dashboard       
   ##### 3. Job Analytics
 
@@ -13,7 +13,7 @@
 #### 1. AtliQ Sales Dashboard-
    ![image](https://github.com/user-attachments/assets/7610f297-73ab-4cef-9bfb-77e719400b9c)
 
-#### 2. Ecommerce Analytics Dashboard-
+#### 2. Superstore Sales Dashboard-
   #### Main VIEW-
   ![image](https://github.com/user-attachments/assets/ebc169ba-f59f-486d-bd96-83e4b3c168da)
   #### Orders VIEW-
@@ -24,7 +24,8 @@
   ![image](https://github.com/user-attachments/assets/e2416175-88ff-4834-bd8e-0be5f8793d29)
 
 #### 3. Job Analytics-
-  ![image](https://github.com/user-attachments/assets/6d2700ab-74d7-491d-819f-4b7411a47488)
+  ![image](https://github.com/user-attachments/assets/1e4cb84f-77fa-4b7e-8089-5564c4fab756)
+
 
 ### What I Learnt in Tableau :
 
